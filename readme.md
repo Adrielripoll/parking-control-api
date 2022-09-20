@@ -4,5 +4,4 @@
 [Michelli Brito Channel](https://www.youtube.com/c/MichelliBrito)
 
 ## Its a simple API that do CRUD operations for parking control.
-### (Thats my first contact with Java and Spring Boot.)
 
